@@ -5498,6 +5498,10 @@
 	path = extensions/templ
 	url = https://github.com/makifdb/zed-templ.git
 
+[submodule "extensions/template-string-converter-lsp"]
+	path = extensions/template-string-converter-lsp
+	url = https://github.com/BalintMendli/template-string-converter-lsp.git
+
 [submodule "extensions/templeos-theme"]
 	path = extensions/templeos-theme
 	url = https://github.com/b6k-dev/zed-templeos-theme.git
